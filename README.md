@@ -7,7 +7,7 @@ I use an old Raspberry PI 2 with fluidsynth running as a service. Everything wor
 Let's start..
 
 **targets**
-- build an secure web-interface (http(s)) for lan (no access from outside)
+- build a secure web-interface (http(s)) for lan (no access from outside)
 - configurable design in mind
 - control fluidsynth daemon (service) on localhost over telnet
 - change fonts
@@ -18,4 +18,6 @@ Let's start..
 **future**
 - get and display some midi information
 - control fluidsynth with midi data (e.g. if key 71 pressed select next intrument)
+- enable audio playback of files (any type) and streams (sources: filesystem, BT, ..) / switch between playback and synth
+- integrate into Google Nest / Home
 - ...
