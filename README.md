@@ -1,6 +1,7 @@
 **motivation**
 
-I have an old Yamaha Clavinova CLP-840 in almost good condition. Expect the soundboard, it's totaly broken. But using an MIDI interface, Audio IN and deactivating the soundgeneration of the Clavinova I use an old Raspberry PI 2 with fluidsynth running as a service. Everything works fine. Fluidsynth "understands" almost every key, pedal, setting of the piano.. But, there are more possibilities than buttons. That's why i'd like to have more control over what is going on and so kind of stable initialization of the whole system.
+I have an old Yamaha Clavinova CLP-840 in almost good condition. Expect the soundboard, it's totaly broken. But using an MIDI interface, Audio IN and deactivating the soundgeneration of the Clavinova sound generation can happen outside.
+I use an old Raspberry PI 2 with fluidsynth running as a service. Everything works fine. Fluidsynth "understands" almost every key, pedal, setting of the piano.. But, there are more possibilities than buttons. That's why i'd like to have more control over what is going on and so kind of stable initialization of the whole system.
 Let's start..
 
 **targets**
