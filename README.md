@@ -10,7 +10,7 @@ Let's start..
 - build a secure web-interface (http(s)) for lan (no access from outside)
 - configurable design in mind
 - control fluidsynth daemon (service) on localhost over telnet
-- change fonts
+- change fonts (soundfonts)
 - change instruments (for channel 0)
 - change gain
 - ...
